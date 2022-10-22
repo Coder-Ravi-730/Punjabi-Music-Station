@@ -964,7 +964,7 @@ main, aside etc. are same as before*/
 	height: 60vh;
 	width: 40%;
 	background: linear-gradient(to bottom, rgba(13,0,101,0) 10%,
-              rgba(13,0,101,1)), url(pic/sidhu.jpg); /*Adding linear gradient*/
+              rgba(13,0,101,1)), url(../pic/hardy.jpg); /*Adding linear gradient*/
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -1148,7 +1148,7 @@ main, aside etc. are same as before*/
 }
 
 #artist-img{
-   background-image: url(pic/jass.jpg);
+   background-image: url(../pic/jass.jpg);
    height: 15vh;
    width: 15vh;
    background-position: center;
